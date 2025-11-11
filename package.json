@@ -1,5 +1,5 @@
 {
-  "name": "editor",
+  "name": "blog",
   "type": "module",
   "private": true,
   "scripts": {
