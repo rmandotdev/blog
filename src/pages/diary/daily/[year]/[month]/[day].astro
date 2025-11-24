@@ -1,4 +1,6 @@
 ---
+import PostLayout from "~/layouts/PostLayout.astro";
+
 import type { GetStaticPaths, MarkdownInstance } from "astro";
 
 export const getStaticPaths = (async () => {
@@ -6,18 +8,16 @@ export const getStaticPaths = (async () => {
     "/src/content/diary/daily/**/*.md"
   );
 
-  console.log(allPosts);
-
   const paths = await Promise.all(
     Object.entries(allPosts).map(async ([path, getPost]) => {
       const slug: string = path
         .split("/src/content/diary/daily/")
         .at(-1)!
         .replace(".md", "");
-      console.log(slug);
+      const post = await getPost();
       const [year, month, day] = slug.split("/").map(Number);
-      console.log(year, month, day);
-      return { params: { year, month, day }, props: { post: await getPost() } };
+      if (!year || !month || !day) throw new Error("Invalid post");
+      return { params: { year, month, day }, props: { post } };
     })
   );
 
@@ -25,6 +25,9 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 const { post } = Astro.props;
+const { day, month, year } = Astro.params;
 ---
 
-<post.Content />
+<PostLayout {day} {month} {year}>
+  <post.Content />
+</PostLayout>

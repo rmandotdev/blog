@@ -1,0 +1,25 @@
+---
+import type { AstroComponentFactory } from "astro/runtime/server/index.js";
+import Layout from "~/layouts/Layout.astro";
+
+import "~/styles/blogpost.css";
+
+interface Props {
+  day: number;
+  month: number;
+  year: number;
+  children: AstroComponentFactory;
+}
+
+const { year, month, day } = Astro.props;
+
+const title = `Daily diary post ${year}/${month}/${day}` as const;
+---
+
+<Layout {title}>
+  <div class="p-4">
+    <article class="prose">
+      <slot />
+    </article>
+  </div>
+</Layout>
