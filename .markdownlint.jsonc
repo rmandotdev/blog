@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.40.0/schema/markdownlint-config-schema.json",
+
+  "line-length": false,
+  "no-multiple-blanks": false,
+  "no-trailing-spaces": false,
+  "blanks-around-lists": false,
+  "no-bare-urls": false
+}
