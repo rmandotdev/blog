@@ -4,8 +4,7 @@ description: "My one year journey of contributing to Open Source"
 published_date: 2026-05-10
 ---
 
-I realised it had been exactly one year since my first Open Source contribution.
-That's why I decided to write this post.
+I realised it had been exactly one year since my first Open Source contribution, so I decided to write this post.
 I want to tell the story of my experience and how much has happened and changed in just one year.
 From my first PR to maintaining 3 Open Source projects.
 
@@ -13,12 +12,12 @@ From my first PR to maintaining 3 Open Source projects.
 
 I was 9 years old at the end of 2018 when I created a [Scratch][Scratch] account and made a couple of simple games.
 I've always loved everything that involved logic and I've had an interest in making my own games.
-This was the first time I got to create something using logic and blocks, and I liked it a lot.
+This was the first time I got to create some games and I liked it a lot.
 
 ### Python
 
-I started learning and playing around with Python around April 2022, when I was 13.
-This was the first time I actually wrote real programs instead of just playing in Scratch.
+Around April 2022, when I was 13, I started learning and playing around with Python.
+This was the first time I wrote some actual code, even if it was very simple.
 At the beginning I was mostly doing simple scripts and solving learning tasks and problems.
 A couple of months later, in June, I made my first Telegram bot.
 After that I started writing more interesting programs.
@@ -27,11 +26,18 @@ After that I started writing more interesting programs.
 ## Infinite Craft and JavaScript
 
 
-Somewhere in February of 2024 I started playing [Infinite Craft][Infinite Craft], a game by Neal Agarwal released a couple of weeks before that, in January of that year.
+Somewhere in February 2024 I discovered [Infinite Craft][Infinite Craft], a game made by Neal Agarwal.
+It is an addictive browser game where you combine elements to create new ones.
+I had a lot of fun with it.
+I really like how Neal makes simple but clever games.
+His style had a big impact on me and still inspires me to create things myself.
 
-
-In July of 2024 I joined [Infinite Craft][Infinite Craft Discord] and [What Beats Rock][What Beats Rock] Discord servers.
-
+Later that summer I joined the Infinite Craft Discord after seeing it on the subreddit.
+Through that community I quickly found [What Beats Rock][What Beats Rock], a fun rock-paper-scissors game, where AI decides whether you win a or lose.
+I was super active in both communities for the next couple of weeks, trying to find clever strategies to beat the AI,
+sharing discoveries, and writing some Python scripts to play What Beats Rock for me.
+It was exciting to be around people who were as into these games as I was.
+There was both competition and collaboration and that made it very interesting and fun for me.
 
 
 
@@ -199,7 +205,6 @@ You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
 
 
 [Infinite Craft]: https://neal.fun/infinite-craft/
-[Infinite Craft Discord]: https://go.rman.dev/ic/discord
 [What Beats Rock]: https://www.whatbeatsrock.com
 [wildwest.gg]: https://www.wildwest.gg
 
