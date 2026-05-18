@@ -4,46 +4,24 @@ description: "My one year journey of contributing to Open Source"
 published_date: 2026-05-10
 ---
 
-
-
-This is my story of contributing to Open Source for one year.
+I realised it had been exactly one year since my first Open Source contribution.
+That's why I decided to write this post.
+I want to tell the story of my experience and how much has happened and changed in just one year.
 From my first PR to maintaining 3 Open Source projects.
-I want to tell about how I started programming, how I [started contributing to Open Source](#open-source), and [what I am doing now](#what-next).
-
-
-
-
 
 ## Beginning
 
-I will start this story 6 years ago.
-At the end of 2018 I created a [Scratch][Scratch] account and a couple of simple games.
-In May 2019 I started playing Minecraft.
-During the summer of 2020 I made some more games on Scratch.
+I was 9 years old at the end of 2018 when I created a [Scratch][Scratch] account and made a couple of simple games.
+I've always loved everything that involved logic and I've had an interest in making my own games.
+This was the first time I got to create something using logic and blocks, and I liked it a lot.
 
+### Python
 
-
-### Online programming courses
-
-
-In March - June of 2021 I tried Arduino.
-
-
-
-
-
-
-### Python, Telegram bots
-
-
-I started learning Python in April of 2022.
-In June of 2022 I created my first Telegram bot.
-I created a GitHub account in December of 2022 but I did not use it at that time.
-In 2023 I made some more Telegram bots and wrote some other Python programs.
-
-
-
-
+I started learning and playing around with Python around April 2022, when I was 13.
+This was the first time I actually wrote real programs instead of just playing in Scratch.
+At the beginning I was mostly doing simple scripts and solving learning tasks and problems.
+A couple of months later, in June, I made my first Telegram bot.
+After that I started writing more interesting programs.
 
 
 ## Infinite Craft and JavaScript
