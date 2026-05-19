@@ -1,2 +1,24 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
+
+@utility prose {
+  code {
+    &::before,
+    &::after {
+      content: none;
+    }
+  }
+
+  blockquote {
+    margin: 0;
+
+    p {
+      &::before,
+      &::after {
+        content: none;
+      }
+
+      font-weight: 400;
+    }
+  }
+}

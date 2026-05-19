@@ -48,52 +48,36 @@ This was the first time I touched JavaScript and the web.
 
 ### GitHub
 
+In mid-October I started using GitHub, mostly as a backup to keep my wildwest.gg games safe.
+Around the same time, my uncle Jerome shared [his own game][Legion game] with me for me to play and give feedback.
 
-On 9th of October I've started to use GitHub.
-At that point I used it to store some settings for my games and then the games themselves.
+After that I started writing more small scripts and experimenting with JavaScript.
+In the middle of November I decided to build a Discord bot.
+I had to figure out how to install Node.js and all the related tools.
 
-On 10th of October, [Jerome][Jerome], who is also my uncle, shared me [his game][Legion game] for me to try (available on [github][Legion game github]).
+Everything at that time was incredibly frustrating and confusing for me. I remember complaining to a friend:
+> Why do I have to install `nvm` to install `npm` to install `wrangler` to only then do something? Why is it so complicated?
 
+It took me about two weeks of frustration but I finally got it working.
 
-In the middle of October I created my first userscript.
-
-
-On 21st of October my GitHub account was randomly suspended so I temporarily had some of my code on [GitLab](https://gitlab.com/users/gameroman).
-
-
-In November, I created my first Cloudflare Worker.
-
-
-In the middle of November I decided to make a Discord Bot, so I had to figure out how to install Node.js and everything related to that.
-It took me about 2 weeks to figure it all out but I did it.
-
-
-In the end of November I created my first static website, [gameroman.pages.dev][gameroman.pages.dev].
-
-On 11th of December my GitHub account was reinstated.
-
-In the end of December I made my [first test PR](https://github.com/InfiniteCraftCommunity/userscripts).
-
-
-On 15th of January, 2025 I got a roman.is-a.dev subdomain.
-
+By the end of November I published my first static website, and in the end of December I figured out how to make PRs on GitHub.
 
 ### Developer communities
 
-On 21st of January I created my Bluesky account.
+Mid-January I randomly stumbled across [Theo's][Theo's youtube] video on YouTube.
+I found his videos about JavaScript and the web ecosystem very interesting, so I started watching them more and more, almost every day.
+In early March, while working on my JavaScript projects, I decided to explore TypeScript after I learnt about it from Theo's vieos.
+I struggled a lot with trying to get TypeScript compilation to work.
+I've decided to install Bun to make it much easier for me.
 
-On 27th of January I created my [first github issue](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/16113) on an open source repository.
+Around the same time, while going through my old Python projects, I came back to updating my old Telegram bots. 
+On my 16th birthday I got a Raspberry Pi.
+I wanted something that could run my Telegram bots 24/7 without keeping my laptop on all the time.
 
-Somwhere around January I started watching [Theo][Theo's youtube], and in February I joined his Discord server.
-
-On 11th of March, I tried TypeScript for the first time and also installed Bun.
-
-On my Birthday, 18th of March, I got a Raspberry Pi.
-
-On 10th of April I joined Bun Discord server.
+By the end of April I was feeling noticeably more confident using GitHub and working with TypeScript.
 
 
-
+<!-- TODO -->
 
 ## Open Source
 
@@ -110,7 +94,7 @@ On 10th of June, 2025, I bought my first domain, [rman.dev][rman.dev].
 
 On 13th of June I created and published my [first npm package][First npm package].
 
-At the end of June, I joined Astro and SolidJS Discord servers and Moved my website to Astro.
+At the end of June, I joined Astro and SolidJS Discord servers and moved my website to Astro.
 
 On 3rd of July, I made my [first PR to Jerome's game](https://github.com/Jerenaux/legion/pull/3).
 
@@ -204,11 +188,7 @@ You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
 [What Beats Rock]: https://www.whatbeatsrock.com
 [wildwest.gg]: https://www.wildwest.gg
 
-[Jerome]: https://github.com/Jerenaux
-[Legion game]: https://www.play-legion.io/play
-[Legion game github]: https://github.com/Jerenaux/legion
-
-[gameroman.pages.dev]: htpps://gameroman.pages.dev
+[Legion game]: https://github.com/Jerenaux/legion
 
 
 [Theo's youtube]: https://www.youtube.com/@t3dotgg
