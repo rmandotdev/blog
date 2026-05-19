@@ -25,7 +25,6 @@ After that I started writing more interesting programs.
 
 ## Infinite Craft and JavaScript
 
-
 Somewhere in February 2024 I discovered [Infinite Craft][Infinite Craft], a game made by Neal Agarwal.
 It is an addictive browser game where you combine elements to create new ones.
 I had a lot of fun with it.
@@ -39,15 +38,12 @@ sharing discoveries, and writing some Python scripts to play What Beats Rock for
 It was exciting to be around people who were as into these games as I was.
 There was both competition and collaboration and that made it very interesting and fun for me.
 
-
-
 ### wildwest.gg
 
-In the beginning of September, about a week after the developers of What Beats Rock released [wildwest.gg][wildwest.gg], I created several games on there.
-This was the first time when I exposed myself to JavaScript.
-I've continued to make games there for the whole of September.
-
-
+Early in September, right after returning from summer holidays, I discovered that the What Beats Rock team had released [wildwest.gg][wildwest.gg].
+It was a platform where you could create HTML games by prompting AI.
+I tried it immediately and had a lot of fun creating several simple games there.
+This was the first time I touched JavaScript and the web.
 
 
 ### GitHub
