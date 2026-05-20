@@ -23,7 +23,7 @@
     "@gameroman/config": "0.1.0",
     "@tailwindcss/typography": "0.5.19",
     "typescript": "6.0.3",
-    "wrangler": "4.90.0"
+    "wrangler": "4.93.0"
   },
   "overrides": {
     "@jridgewell/trace-mapping": "0.3.31",
