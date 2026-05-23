@@ -129,27 +129,29 @@ It felt amazing.
 
 ### Becoming a maintainer
 
-On 15th of April I joined the [bombshell][bombshell] maintainers team.
+In the middle of April, [Nate][Nate], the Organizer of [bombshell][bombshell],
+mentioned in the Discord server that they were looking for more maintainers to help with the projects.
+I wrote that I would be glad to help with anything I could, and he promptly invited and welcomed me to the maintainers team.
 
-For the next 2 weeks I was making PRs to [module-replacements-codemods][module-replacements-codemods].
-I was also continuing to contribute to npmx,
-this includes both submitting my own PRs as well as helping to review PRs submitted by other contributors.
+There is something special about becoming a maintainer.
+I had already been helping review PRs before, but getting an official maintainer title is different.
+It camoes with both responsibility, but also a feeling that people trust me.
 
-On 29th of April I was invited to join the npmx maintainers team.
+A couple of weeks later, in the end of April, one of the npmx core team members, [@graphieros][graphieros],
+messaged me on Discord and asked if I would like to be a maintainer.
+I accepted right away.
+I was added to the maintainers team and welcomed by [@patak][Patak], who thanked me for everything I had been doing across projects.
 
-
+There is definitely more responsibility now, but at the same time it feels great that people trust my actions and recognize my contributions.
 
 
 ## What next?
 
+TODO.
+
 I will continue to maintain and contribute to Open Source projects.
 
 You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
-
-
-
-
-
 
 
 
@@ -184,8 +186,10 @@ You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
 [Patak]: https://bsky.app/profile/patak.cat
 [npmx]: https://npmx.dev
 [module-replacements]: https://github.com/e18e/module-replacements
+
+[Nate]: https://github.com/natemoo-re
 [bombshell]: https://bomb.sh
-[module-replacements-codemods]: https://github.com/es-tooling/module-replacements-codemods
+[graphieros]: https://github.com/graphieros
 
 [Bluesky]: https://rman.dev/bsky
 [x.com]: https://rman.dev/x
