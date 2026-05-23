@@ -11,6 +11,7 @@
     "format": "biome check --fix --linter-enabled=false",
     "build": "astro build",
     "deploy": "wrangler deploy",
+    "share": "wrangler versions upload",
     "dev": "astro dev"
   },
   "dependencies": {

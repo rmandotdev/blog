@@ -1,4 +1,5 @@
 ---
+// @ts-expect-error
 import "#styles";
 
 interface Props {
@@ -36,7 +37,7 @@ const { title, description = title } = Astro.props;
     <link rel="canonical" href={canonical} />
   </head>
 
-  <body>
+  <body class="dark:bg-neutral-900">
     <slot />
   </body>
 </html>
