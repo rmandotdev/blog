@@ -77,38 +77,31 @@ I wanted something that could run my Telegram bots 24/7 without keeping my lapto
 By the end of April I was feeling noticeably more confident using GitHub and working with TypeScript.
 
 
-<!-- TODO -->
-
 ## Open Source
 
+In the beginning of May, while working on my Telegram bots, I noticed that a function I used had a broken type annotation.
+I decided to fix it and opened my first PR to an Open Source project that I used.
+When it got merged, it made me feel very excited.
+Something about this purple color of a merged PR is very addicting.
+Encouraged by this PR, during the rest of May I've made PRs to other Open Source projects, fixing similar small issues that I could find.
 
-My first Open Source contribution was on May 7, 2025.
-It was a [simple PR][First Open Source PR] that fixed a simple type annotation in Python code.
-Same week I opened PRs to fix similar thing in other Open Source repositories.
+In the beginning of June, I finally decided to buy a domain for my website.
+At that point I've been thinking about this decision for over 2 months and I finally decided to do it.
+As you can see, I still use my [rman.dev][rman.dev] domain by this day.
 
-Next week I've opened multiple PRs to [lichess-org/api](https://github.com/lichess-org/api), fixing some tiny issues.
+Soon after, I created and published my first npm package.
+It was a small utility function I had been using in several of my own projects, so I decided it is a good idea to turn it into a shared npm package.
+Figuring out how to publish it turned out to be surprisingly simple.
 
+Around the same time I discovered [Astro][Astro] and [SolidJS][SolidJS].
+I moved my website from plain HTML to Astro and at the end of June I joined both Astro and SolidJS Discord servers.
 
+In early July, I made my first PR to the [Jerome's game](GitHub) to get familiar with the codebase and get ready for more contributions.
+The same and next day I opened two more PRs to that repo.
 
-On 10th of June, 2025, I bought my first domain, [rman.dev][rman.dev].
-
-On 13th of June I created and published my [first npm package][First npm package].
-
-At the end of June, I joined Astro and SolidJS Discord servers and moved my website to Astro.
-
-On 3rd of July, I made my [first PR to Jerome's game](https://github.com/Jerenaux/legion/pull/3).
-
-
-
-
-
-In the middle of September, I made my [first PR to Astro](https://github.com/withastro/astro/pull/14346), updating a dependency.
-The next week I joined [Vite][Vite Discord] and [Biome.js][Biome Discord] Discord servers.
-
-In the middle/end of October I've opened some more PRs to the **lichess-org/api** repository.
-Throughout the October and November, I opened a couple of more PRs to Astro and some other Open Source repositories.
-
-
+In the middle of September, I made my first PR to Astro to update a dependency.
+The maintainers were very welcoming and the whole experience was positive.
+For the rest of autumn I continued to contribute to Open Source projects, fixing issues that I encountered while building my own projects.
 
 
 ### e18e and npmx
@@ -190,19 +183,12 @@ You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
 
 [Legion game]: https://github.com/Jerenaux/legion
 
-
 [Theo's youtube]: https://www.youtube.com/@t3dotgg
-
-[First Open Source PR]: https://github.com/eternnoir/pyTelegramBotAPI/pull/2475
 
 [rman.dev]: https://rman.dev
 
-
-[First npm package]: https://npmx.dev/package/isoneof/v/1.0.0
-
-[Vite Discord]: https://chat.vite.dev
-[Biome Discord]: https://biomejs.dev/chat
-
+[Astro]: https://astro.build
+[SolidJS]: https://www.solidjs.com
 
 [e18e Discord]: https://chat.e18e.dev
 [clack]: https://www.clack.cc
