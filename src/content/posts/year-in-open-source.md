@@ -1,12 +1,12 @@
 ---
 title: "Year in Open Source"
-description: "My one year journey of contributing to Open Source"
+description: "A reflection on my first year contributing to Open Source and my dev journey."
 published_date: 2026-05-10
 ---
 
-I realised it had been exactly one year since my first Open Source contribution, so I decided to write this post as a reflection.
-I want to tell the story of my experience and how much has happened and changed in just one year.
-From my first PR to maintaining 3 Open Source projects.
+Today I realised it had been exactly one year since my first Open Source contribution.
+I decided to write this post as a reflection on my Open Source and dev journey.
+From a total beginner, to my first PR, to maintaining 3 Open Source projects.
 
 ## Beginning
 
@@ -35,7 +35,7 @@ Through that community I quickly found [What Beats Rock][What Beats Rock], a fun
 I was super active in both communities for the next couple of weeks, trying to find clever strategies to beat the AI,
 sharing discoveries, and writing some Python scripts to play What Beats Rock for me.
 It was exciting to be around people who were as into these games as I was.
-There was both competition and collaboration and that made it very interesting and fun for me.
+The competition and collaboration made it very interesting and fun for me.
 
 ### wildwest.gg
 
