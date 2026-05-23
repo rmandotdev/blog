@@ -106,41 +106,28 @@ For the rest of autumn I continued to contribute to Open Source projects, fixing
 
 ### e18e and npmx
 
-On 2nd of December of 2025 I joined [e18e Discord server][e18e Discord].
-On 9th of December I learnt about [clack][clack].
-On 15th, I made a PR to [e18e/setup-publish](https://github.com/e18e/setup-publish/pull/61), fixing a simple bug.
-On 18th, I learnt about [knip][knip] and [fixed](https://github.com/webpro-nl/knip/pull/1412) a simple bug the same week.
+In early December I discovered [e18e][e18e], after James (the lead of e18e) commented something on one of my PRs in the Vite repository.
+I quickly found the e18e Discord server and decided to join it.
+From there I quickly discovered tools like [clack][clack] and [knip][knip], and started making small PRs to fix bugs I found.
 
-At the end of December and beginning of January I made some PRs to [py-stockfish][py-stockfish].
+In the middle of January, [@patak][Patak] reached out to me on Bluesky.
+He invited me to the brand new [npmx][npmx] Discord server.
+I joined immediately and really liked what the project was doing.
 
+A few weeks later I started contributing heavily to the [e18e/module-replacements][module-replacements] repository.
+While using npmx, I found some packages that should have a suggested replacement,
+such as those that could be replaced with smaller or native alternatives, did not, so I began opening PRs to  add them to the **module-replacements** manifest.
+I ended up contributing a huge number of replacements in next 3 weeks.
 
+In the middle of March I decided to donate to e18e.
+I've been planning to do it for a while, but after noticing how overwhelmed and botlennecked James was by reviewing all of my PRs, I finally decided to do it.
+It was a way to support all the work he and everyone else who contributes to e18e is doing.
 
-In January, I started to passively explore Bluesky.
-
-In the middle of January I made a [PR to knip](https://github.com/webpro-nl/knip/pull/1462) to replace fast-glob dependency with tinyglobby,
-which was merged 3 months later, in the middle of April.
-
-
-
-On 25th of January, [@patak][Patak] messaged me and asked me if I want to join the [npmx][npmx] Discord and so I did.
-The next day I made my [first PR to npmx](https://github.com/npmx-dev/npmx.dev/pull/148), which fixed a small issue.
-During the first week of February I made a couple more PRs to npmx.
-
-On 8th of February, 2026, [@patak][Patak] asked me if I would like to be a moderator in the Vite Discord server, so I became a moderator there.
-
-
-On 22nd of February I started making PRs to the [e18e/module-replacements][module-replacements] repo.
-In the first week I opened more than 30 PRs adding multiple packages to replacements.
-In the next 2 weeks it totaled to approximately 100 PRs.
-So on 15th of March I decided to [donate to e18e](https://bsky.app/profile/rman.dev/post/3mh3v2s7qjs2l),
-to support all the work that is being done by everyone who is invloved, and [you should too][Sponsor e18e]!
+Shortly after, the e18e team recognized me for making significant contributions.
+It felt amazing.
 
 
 ### Becoming a maintainer
-
-On 21st of March, I was recognized as a maintainer of e18e for *"making significant contributions"*.
-
-In the next 3 weeks I submitted about 60 more module replacements.
 
 On 15th of April I joined the [bombshell][bombshell] maintainers team.
 
@@ -190,16 +177,13 @@ You can follow me on [Bluesky][Bluesky], [x.com][x.com], and [GitHub][GitHub].
 [Astro]: https://astro.build
 [SolidJS]: https://www.solidjs.com
 
-[e18e Discord]: https://chat.e18e.dev
+[e18e]: https://e18e.dev
 [clack]: https://www.clack.cc
 [knip]: https://knip.dev
-
-[py-stockfish]: https://github.com/py-stockfish/stockfish
 
 [Patak]: https://bsky.app/profile/patak.cat
 [npmx]: https://npmx.dev
 [module-replacements]: https://github.com/e18e/module-replacements
-[Sponsor e18e]: https://e18e.dev/sponsor
 [bombshell]: https://bomb.sh
 [module-replacements-codemods]: https://github.com/es-tooling/module-replacements-codemods
 
