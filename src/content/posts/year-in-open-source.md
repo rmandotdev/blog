@@ -1,6 +1,6 @@
 ---
 title: "Year in Open Source"
-description: "A reflection on my first year contributing to Open Source and my dev journey."
+description: "A reflection on my first year contributing to Open Source and my dev journey"
 published_date: 2026-05-10
 ---
 

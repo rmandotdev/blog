@@ -1,9 +1,17 @@
 ---
+import { getCollection } from "astro:content";
+import PostListItem from "#components/PostListItem";
 import Layout from "#layout";
 
 const title = "Blog";
+const posts = await getCollection("posts");
 ---
 
 <Layout {title}>
-  <h1 class="dark:text-white">{title}</h1>
+  <div class="px-6 pt-8 pb-64 mx-auto max-w-2xl">
+    <h1 class="text-3xl font-bold dark:text-white mb-8">{title}</h1>
+    <ul class="space-y-8">
+      {posts.map((post) => <PostListItem {post} />)}
+    </ul>
+  </div>
 </Layout>

@@ -1,0 +1,31 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Post = CollectionEntry<"posts">;
+
+interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+
+const date = post.data.published_date.toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<li
+  class="bg-neutral-100 dark:bg-neutral-800 rounded-lg transition-all duration-200 hover:bg-neutral-200 dark:hover:bg-neutral-700"
+>
+  <a href={`/${post.id}`} class="block p-4">
+    <h2 class="text-xl font-semibold dark:text-white">
+      {post.data.title}
+    </h2>
+    <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">{date}</p>
+    <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+      {post.data.description}
+    </p>
+  </a>
+</li>
