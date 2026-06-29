@@ -1,37 +1,37 @@
 {
   "name": "blog",
-  "type": "module",
   "private": true,
+  "type": "module",
   "imports": {
     "#components/*": "./src/components/*.astro",
     "#styles": "./src/styles/global.css",
     "#layout": "./src/layouts/Layout.astro"
   },
   "scripts": {
-    "lint": "biome check",
-    "format": "biome check --fix --linter-enabled=false",
     "build": "astro build",
     "deploy": "wrangler deploy",
-    "share": "wrangler versions upload",
-    "dev": "astro dev"
-  },
-  "dependencies": {
-    "@tailwindcss/vite": "4.3.1",
-    "astro": "6.4.8",
-    "tailwindcss": "4.3.1"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "2.4.16",
-    "@gameroman/config": "0.1.0",
-    "@tailwindcss/typography": "0.5.20",
-    "typescript": "6.0.3",
-    "wrangler": "4.105.0"
+    "dev": "astro dev",
+    "format": "biome check --fix --linter-enabled=false",
+    "lint": "biome check",
+    "share": "wrangler versions upload"
   },
   "overrides": {
     "@jridgewell/trace-mapping": "0.3.31",
     "esbuild": "0.28.1",
     "is-docker": "4.0.0",
-    "semver": "7.8.4",
+    "semver": "7.8.5",
     "unstorage": "2.0.0-alpha.7"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "4.3.1",
+    "astro": "7.0.3",
+    "tailwindcss": "4.3.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.1",
+    "@gameroman/config": "0.2.2",
+    "@tailwindcss/typography": "0.5.20",
+    "typescript": "6.0.3",
+    "wrangler": "4.105.0"
   }
 }
