@@ -28,8 +28,8 @@
     "tailwindcss": "4.3.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.1",
-    "@gameroman/config": "0.2.2",
+    "@biomejs/biome": "2.5.3",
+    "@gameroman/config": "0.2.4",
     "@tailwindcss/typography": "0.5.20",
     "typescript": "6.0.3",
     "wrangler": "4.107.0"
