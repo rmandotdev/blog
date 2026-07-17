@@ -1,3 +1,3 @@
 # Blog
 
-<https://blog.rman.dev>
+[blog.rman.dev](https://blog.rman.dev)

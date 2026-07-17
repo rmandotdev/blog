@@ -13,6 +13,7 @@
     "dev": "astro dev",
     "format": "biome check --fix --linter-enabled=false",
     "lint": "biome check",
+    "preview": "astro preview",
     "share": "wrangler versions upload"
   },
   "overrides": {
