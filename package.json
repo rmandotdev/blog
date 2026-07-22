@@ -29,7 +29,7 @@
     "tailwindcss": "4.3.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.4",
+    "@biomejs/biome": "2.5.5",
     "@gameroman/config": "0.2.5",
     "@tailwindcss/typography": "0.5.20",
     "typescript": "6.0.3",
