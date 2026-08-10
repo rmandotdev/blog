@@ -18,7 +18,7 @@
   },
   "overrides": {
     "@jridgewell/trace-mapping": "0.3.31",
-    "esbuild": "0.28.1",
+    "esbuild": "0.28.2",
     "unstorage": "2.0.0-alpha.7"
   },
   "dependencies": {
