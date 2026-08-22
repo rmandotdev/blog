@@ -20,7 +20,7 @@
     "@jridgewell/trace-mapping": "0.3.31",
     "esbuild": "0.28.2",
     "find-process": "npm:find-proc@0.0.1",
-    "unstorage": "2.0.0-alpha.7"
+    "unstorage": "2.0.0-alpha.9"
   },
   "dependencies": {
     "@tailwindcss/vite": "4.3.3",
