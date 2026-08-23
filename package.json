@@ -19,7 +19,7 @@
   "overrides": {
     "@jridgewell/trace-mapping": "0.3.31",
     "esbuild": "0.28.2",
-    "find-process": "npm:find-proc@0.0.1",
+    "find-process": "npm:find-proc@0.1.0",
     "unstorage": "2.0.0-alpha.9"
   },
   "dependencies": {
