@@ -34,6 +34,6 @@
     "@gameroman/config": "0.2.9",
     "@tailwindcss/typography": "0.5.20",
     "typescript": "7.0.2",
-    "wrangler": "4.128.0"
+    "wrangler": "4.129.0"
   }
 }
