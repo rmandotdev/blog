@@ -17,20 +17,22 @@
     "share": "wrangler versions upload"
   },
   "overrides": {
+    "@emnapi/core": "1.11.3",
     "@emnapi/runtime": "1.11.3",
+    "@emnapi/wasi-threads": "1.2.3",
     "@jridgewell/trace-mapping": "0.3.31",
     "esbuild": "0.28.2",
-    "js-yaml": "npm:neoyaml@0.2.0",
+    "lightningcss": "1.33.0",
     "sharp": "0.35.5",
     "unstorage": "2.0.0-beta.0"
   },
   "dependencies": {
     "@tailwindcss/vite": "4.3.3",
-    "astro": "7.3.2",
+    "astro": "7.4.2",
     "tailwindcss": "4.3.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.15",
+    "@biomejs/biome": "2.6.2",
     "@gameroman/config": "0.3.0",
     "@tailwindcss/typography": "0.5.20",
     "typescript": "7.0.2",
