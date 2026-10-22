@@ -3,10 +3,16 @@
   "[jsonc]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
   "[typescript]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "[json]": {
+  "[markdown]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[yaml]": {
     "editor.defaultFormatter": "biomejs.biome"
   }
 }
