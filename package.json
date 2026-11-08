@@ -27,9 +27,9 @@
     "unstorage": "2.0.0-beta.0"
   },
   "dependencies": {
-    "@tailwindcss/vite": "4.3.3",
+    "@tailwindcss/vite": "4.3.5",
     "astro": "7.4.4",
-    "tailwindcss": "4.3.3"
+    "tailwindcss": "4.3.5"
   },
   "devDependencies": {
     "@biomejs/biome": "2.6.4",
